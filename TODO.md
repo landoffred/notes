@@ -1,5 +1,5 @@
 # repo #
-+ practicepp11
++ practice_cpp11
 + misc
 
 # directories #
