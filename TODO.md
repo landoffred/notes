@@ -1,6 +1,7 @@
 # repo #
 + practice_cpp11
 + misc
++ tech_blog
 
 # directories #
 + notes/ai
